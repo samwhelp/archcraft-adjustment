@@ -34,7 +34,7 @@ https://github.com/archcraft-os/archcraft-lxde/releases/download/v22.10/archcraf
 
 ### context Titlebar / orginal
 
-* [config snippet](asset/orginal/lxde-rc.xml#L1063-L1065)
+* [config snippet](asset/orginal/lxde-rc.xml#L696-L698)
 
 ``` xml
   <mouse>
@@ -48,7 +48,7 @@ https://github.com/archcraft-os/archcraft-lxde/releases/download/v22.10/archcraf
 
 ### context Titlebar / adjust
 
-* [config snippet](lxde-rc.xml#L1064-L1067)
+* [config snippet](lxde-rc.xml#L698-L701)
 
 ``` xml
   <mouse>
@@ -66,12 +66,15 @@ https://github.com/archcraft-os/archcraft-lxde/releases/download/v22.10/archcraf
 
 ### context Frame / orginal
 
-* [config snippet](asset/orginal/lxde-rc.xml#L1025-L1027)
+* [config snippet](asset/orginal/lxde-rc.xml#L653-L658)
 
 ``` xml
   <mouse>
     <context name="Frame">
-      <mousebind action="Drag" button="A-Left">
+      <mousebind button="W-Left" action="Drag">
+        <action name="Move"/>
+      </mousebind>
+      <mousebind button="A-Left" action="Drag">
         <action name="Move"/>
       </mousebind>
     </context>
@@ -80,12 +83,16 @@ https://github.com/archcraft-os/archcraft-lxde/releases/download/v22.10/archcraf
 
 ### context Frame / adjust
 
-* [config snippet](lxde-rc.xml#L1025-L1028)
+* [config snippet](lxde-rc.xml#L653-L660)
 
 ``` xml
   <mouse>
     <context name="Frame">
-      <mousebind action="Drag" button="A-Left">
+      <mousebind button="W-Left" action="Drag">
+        <action name="UnmaximizeFull"/>
+        <action name="Move"/>
+      </mousebind>
+      <mousebind button="A-Left" action="Drag">
         <action name="UnmaximizeFull"/>
         <action name="Move"/>
       </mousebind>
