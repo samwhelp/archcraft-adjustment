@@ -2,7 +2,7 @@
 
 ## Orginal
 
-* [rc.xml](https://github.com/archcraft-os/archcraft-lxde/blob/main/packages/archcraft-lxde/files/openbox/lxde-rc.xml#L636)
+* [lxde-rc.xml](https://github.com/archcraft-os/archcraft-lxde/blob/main/packages/archcraft-lxde/files/openbox/lxde-rc.xml#L636)
 
 
 ``` sh
