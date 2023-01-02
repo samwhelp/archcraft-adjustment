@@ -99,3 +99,8 @@ https://github.com/archcraft-os/archcraft-lxde/releases/download/v22.10/archcraf
     </context>
   </mouse>
 ```
+
+
+## Link
+
+* note-about-openbox / [drag_window_to_move_when_window_maximized](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized)
