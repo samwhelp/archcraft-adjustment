@@ -15,6 +15,9 @@ parent: Howto
 | Case |
 | --- |
 | archcraft-lxde / [drag_window_to_move_when_window_maximized_enhance](https://github.com/samwhelp/archcraft-adjustment/tree/main/sample/mousebind-adjustment/archcraft-lxde/2022-10-10/drag_window_to_move_when_window_maximized_enhance) |
+| archcraft-openbox / [drag_window_to_move_when_window_maximized_enhance](https://github.com/samwhelp/archcraft-adjustment/tree/main/sample/mousebind-adjustment/archcraft-openbox/2022-09-16/drag_window_to_move_when_window_maximized_enhance) |
+| archcraft-openbox / [all_enhance](https://github.com/samwhelp/archcraft-adjustment/tree/main/sample/mousebind-adjustment/archcraft-openbox/2022-09-16/all_enhance) |
+
 
 
 ## archcraft-lxde / adjustment / mousebind
