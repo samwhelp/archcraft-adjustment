@@ -31,7 +31,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ## archcraft-openbox / adjustment / mousebind
 
-> mouse left click on desktop to toggle show desktop
+> Mouse left click on desktop to toggle show desktop
 
 
 ### context Root / orginal
@@ -52,3 +52,8 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
     </context>
   </mouse>
 ```
+
+
+## Link
+
+* note-about-openbox / [mouse_left_click_on_desktop_to_toggle_show_desktop](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/mouse_left_click_on_desktop_to_toggle_show_desktop)
