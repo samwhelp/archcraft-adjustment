@@ -151,3 +151,9 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
     </context>
   </mouse>
 ```
+
+
+## Link
+
+* archcraft-openbox / [rc.xml](https://github.com/archcraft-os/archcraft-openbox/blob/main/files/rc.xml#L804-L820)
+* note-about-openbox / [drag_window_to_move_when_window_maximized_enhance](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized_enhance)
