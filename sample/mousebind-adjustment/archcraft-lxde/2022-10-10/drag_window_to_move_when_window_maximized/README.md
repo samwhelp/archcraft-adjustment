@@ -39,7 +39,7 @@ https://github.com/archcraft-os/archcraft-lxde/releases/download/v22.10/archcraf
 ``` xml
   <mouse>
     <context name="Titlebar">
-      <mousebind action="Drag" button="Left">
+      <mousebind button="Left" action="Drag">
         <action name="Move"/>
       </mousebind>
     </context>
@@ -53,7 +53,7 @@ https://github.com/archcraft-os/archcraft-lxde/releases/download/v22.10/archcraf
 ``` xml
   <mouse>
     <context name="Titlebar">
-      <mousebind action="Drag" button="Left">
+      <mousebind button="Left" action="Drag">
         <action name="UnmaximizeFull"/>
         <action name="Move"/>
       </mousebind>
