@@ -821,7 +821,7 @@
         <action name="Focus"/>
         <action name="Raise"/>
       </mousebind>
-      <mousebind action="Drag" button="A-Left">
+      <mousebind action="Drag" button="Left">
         <action name="if">
           <maximized>yes</maximized>
           <then>
