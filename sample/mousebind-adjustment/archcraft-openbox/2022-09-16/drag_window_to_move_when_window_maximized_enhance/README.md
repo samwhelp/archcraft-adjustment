@@ -82,7 +82,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
       </mousebind>
       //-->
 
-      <mousebind action="Drag" button="A-Left">
+      <mousebind action="Drag" button="Left">
         <action name="if">
           <maximized>yes</maximized>
           <then>
