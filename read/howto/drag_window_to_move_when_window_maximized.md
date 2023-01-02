@@ -29,7 +29,7 @@ parent: Howto
 ``` xml
   <mouse>
     <context name="Titlebar">
-      <mousebind action="Drag" button="Left">
+      <mousebind button="Left" action="Drag">
         <action name="Move"/>
       </mousebind>
     </context>
@@ -43,7 +43,7 @@ parent: Howto
 ``` xml
   <mouse>
     <context name="Titlebar">
-      <mousebind action="Drag" button="Left">
+      <mousebind button="Left" action="Drag">
         <action name="UnmaximizeFull"/>
         <action name="Move"/>
       </mousebind>
