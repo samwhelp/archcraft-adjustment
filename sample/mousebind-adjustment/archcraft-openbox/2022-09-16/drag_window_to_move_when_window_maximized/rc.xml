@@ -778,7 +778,6 @@
         <action name="Raise"/>
       </mousebind>
       <mousebind action="Drag" button="W-Left">
-        <action name="UnmaximizeFull"/>
         <action name="Move"/>
       </mousebind>
       <mousebind action="Press" button="A-Right">
@@ -796,7 +795,6 @@
         <action name="Raise"/>
       </mousebind>
       <mousebind action="Drag" button="A-Left">
-        <action name="UnmaximizeFull"/>
         <action name="Move"/>
       </mousebind>
       <mousebind action="Press" button="Left">
