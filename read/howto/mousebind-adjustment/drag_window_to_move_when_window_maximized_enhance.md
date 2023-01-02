@@ -115,3 +115,8 @@ parent: Howto
     </context>
   </mouse>
 ```
+
+
+## Link
+
+* [Drag window to move, when window maximized](https://samwhelp.github.io/archcraft-adjustment/read/howto/mousebind-adjustment/drag_window_to_move_when_window_maximized.html)
