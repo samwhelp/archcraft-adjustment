@@ -1,6 +1,6 @@
 ---
 title: Drag window to move, when window maximized.
-nav_order: 7011
+nav_order: 7010
 has_children: false
 parent: Howto
 ---
@@ -14,7 +14,7 @@ parent: Howto
 
 | Case |
 | --- |
-| [archcraft-lxde](https://github.com/samwhelp/archcraft-adjustment/tree/main/sample/mousebind-adjustment/archcraft-lxde/2022-10-10/drag_window_to_move_when_window_maximized) |
+| archcraft-lxde / [drag_window_to_move_when_window_maximized](https://github.com/samwhelp/archcraft-adjustment/tree/main/sample/mousebind-adjustment/archcraft-lxde/2022-10-10/drag_window_to_move_when_window_maximized) |
 
 
 ## archcraft-lxde / adjustment / mousebind
