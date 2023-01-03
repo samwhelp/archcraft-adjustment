@@ -203,7 +203,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 
 
-## archcraft-openbox / adjustment / mousebind
+## archcraft-openbox / adjustment / mousebind / mouse_middle_scroll_on_titlebar_keep_focus_when_window_shading
 
 > Mouse middle scroll on titlebar, keep focus, when window shading
 
