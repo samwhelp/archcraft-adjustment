@@ -290,7 +290,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Frame / orginal
 
-* [config snippet](asset/orginal/rc.xml#L755-L791)
+* [config snippet](asset/orginal/rc.xml#L775-L791)
 
 
 ### context Frame / adjust
