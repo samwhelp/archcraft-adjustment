@@ -76,3 +76,4 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 ## Link
 
 * note-about-openbox / [drag_window_to_move_keep_shaded_when_window_shaded](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_keep_shaded_when_window_shaded)
+* archcraft-openbox / [[Adjustment] Drag window to move, keep shaded, when window shaded.](https://github.com/archcraft-os/archcraft-openbox/issues/9)
