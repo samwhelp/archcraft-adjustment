@@ -56,7 +56,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Desktop / adjust
 
-* [config snippet](rc.xml#L1019-L1028)
+* [config snippet](rc.xml#L1009-L1028)
 
 ``` xml
   <mouse>
