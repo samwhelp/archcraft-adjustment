@@ -180,7 +180,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner / adjust
 
-* [config snippet](rc.xml#L889-L899)
+* [config snippet](rc.xml#L911-L921)
 
 ``` xml
   <mouse>
@@ -244,7 +244,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Titlebar / adjust
 
-* [config snippet](rc.xml#L824-L845)
+* [config snippet](rc.xml#L853-L874)
 
 ``` xml
   <mouse>
@@ -292,7 +292,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Root / adjust
 
-* [config snippet](rc.xml#L1056-L1058)
+* [config snippet](rc.xml#L1078-L1080)
 
 ``` xml
   <mouse>
