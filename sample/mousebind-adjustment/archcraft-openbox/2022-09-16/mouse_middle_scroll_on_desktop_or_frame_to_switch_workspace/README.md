@@ -94,7 +94,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Frame / adjust
 
-* [config snippet](rc.xml#L791-L810)
+* [config snippet](rc.xml#L791-L800)
 
 ``` xml
   <mouse>
@@ -105,16 +105,6 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
         </action>
       </mousebind>
       <mousebind action="Click" button="A-Down">
-        <action name="GoToDesktop">
-          <to>next</to>
-        </action>
-      </mousebind>
-      <mousebind action="Click" button="Up">
-        <action name="GoToDesktop">
-          <to>previous</to>
-        </action>
-      </mousebind>
-      <mousebind action="Click" button="Down">
         <action name="GoToDesktop">
           <to>next</to>
         </action>
