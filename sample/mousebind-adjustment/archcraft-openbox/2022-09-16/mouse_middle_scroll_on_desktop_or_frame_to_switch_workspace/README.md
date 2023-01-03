@@ -33,7 +33,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 > Mouse middle scroll on desktop or frame to switch workspace
 
-### context Frame / orginal
+### context Desktop / orginal
 
 * [config snippet](asset/orginal/rc.xml#L995-L1009)
 

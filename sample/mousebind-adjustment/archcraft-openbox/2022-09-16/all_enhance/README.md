@@ -71,8 +71,8 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Titlebar / adjust
 
-* [config snippet](rc.xml#L815-L819)
-* [config snippet](rc.xml#L824-L839)
+* [config snippet](rc.xml#L825-L829)
+* [config snippet](rc.xml#L834-L849)
 
 ``` xml
   <mouse>
@@ -180,7 +180,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner / adjust
 
-* [config snippet](rc.xml#L879-L889)
+* [config snippet](rc.xml#L889-L899)
 
 ``` xml
   <mouse>
@@ -215,13 +215,100 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Root / adjust
 
-* [config snippet](rc.xml#L1036-L1038)
+* [config snippet](rc.xml#L1056-L1058)
 
 ``` xml
   <mouse>
     <context name="Root">
       <mousebind action="Press" button="Left">
         <action name="ToggleShowDesktop"/>
+      </mousebind>
+    </context>
+  </mouse>
+```
+
+
+
+
+## archcraft-openbox / adjustment / mousebind / mouse_middle_scroll_on_desktop_or_frame_to_switch_workspace
+
+> Mouse middle scroll on desktop or frame to switch workspace
+
+### context Desktop / orginal
+
+* [config snippet](asset/orginal/rc.xml#L995-L1009)
+
+``` xml
+  <mouse>
+    <context name="Desktop">
+      <mousebind action="Click" button="A-Up">
+        <action name="GoToDesktop">
+          <to>previous</to>
+        </action>
+      </mousebind>
+      <mousebind action="Click" button="A-Down">
+        <action name="GoToDesktop">
+          <to>next</to>
+        </action>
+      </mousebind>
+    </context>
+  </mouse>
+```
+
+### context Desktop / adjust
+
+* [config snippet](rc.xml#L1034-L1053)
+
+``` xml
+  <mouse>
+    <context name="Desktop">
+      <mousebind action="Click" button="A-Up">
+        <action name="GoToDesktop">
+          <to>previous</to>
+        </action>
+      </mousebind>
+      <mousebind action="Click" button="A-Down">
+        <action name="GoToDesktop">
+          <to>next</to>
+        </action>
+      </mousebind>
+      <mousebind action="Click" button="Up">
+        <action name="GoToDesktop">
+          <to>previous</to>
+        </action>
+      </mousebind>
+      <mousebind action="Click" button="Down">
+        <action name="GoToDesktop">
+          <to>next</to>
+        </action>
+      </mousebind>
+    </context>
+  </mouse>
+```
+
+
+
+### context Frame / orginal
+
+* [config snippet](asset/orginal/rc.xml#L755-L791)
+
+
+### context Frame / adjust
+
+* [config snippet](rc.xml#L809-L818)
+
+``` xml
+  <mouse>
+    <context name="Frame">
+      <mousebind action="Click" button="A-Up">
+        <action name="GoToDesktop">
+          <to>previous</to>
+        </action>
+      </mousebind>
+      <mousebind action="Click" button="A-Down">
+        <action name="GoToDesktop">
+          <to>next</to>
+        </action>
       </mousebind>
     </context>
   </mouse>
