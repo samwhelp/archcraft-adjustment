@@ -1,6 +1,6 @@
 ---
 title: Mouse left click on desktop to toggle show desktop
-nav_order: 7013
+nav_order: 7014
 has_children: false
 parent: Howto
 ---

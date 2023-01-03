@@ -1,6 +1,6 @@
 ---
 title: Mouse middle scroll on desktop or frame to switch workspace
-nav_order: 7014
+nav_order: 7015
 has_children: false
 parent: Howto
 ---
