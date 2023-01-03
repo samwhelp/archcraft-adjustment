@@ -56,7 +56,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Desktop / adjust
 
-* [config snippet](rc.xml#L1019-L1038)
+* [config snippet](rc.xml#L1019-L1028)
 
 ``` xml
   <mouse>
@@ -89,7 +89,7 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ### context Frame / orginal
 
-* [config snippet](asset/orginal/rc.xml#L755-L791)
+* [config snippet](asset/orginal/rc.xml#L775-L791)
 
 
 ### context Frame / adjust
@@ -116,4 +116,5 @@ https://github.com/archcraft-os/releases/releases/download/v22.09/archcraft-2022
 
 ## Link
 
+* archcraft-openbox / [[Adjustment] Mouse middle scroll on desktop or frame to switch workspace](https://github.com/archcraft-os/archcraft-openbox/issues/11)
 * archcraft-openbox / [[Proposal] Desktop Mousebind](https://github.com/archcraft-os/archcraft-openbox/issues/1)
