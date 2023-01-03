@@ -162,7 +162,7 @@ https://github.com/archcraft-os/archcraft-lxde/releases/download/v22.10/archcraf
 
 ### context Titlebar / adjust
 
-* [config snippet](lxde-rc.xml#L707-L718)
+* [config snippet](lxde-rc.xml#L735-L746)
 
 ``` xml
   <mouse>
