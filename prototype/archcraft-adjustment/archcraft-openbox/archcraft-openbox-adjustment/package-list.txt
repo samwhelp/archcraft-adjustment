@@ -1,0 +1,33 @@
+
+##
+## AUR
+##
+
+sakura
+sublime-text-4
+gruvbox-dark-gtk
+gruvbox-dark-icons-gtk
+
+
+
+
+##
+## Arch Package
+##
+
+mousepad
+pcmanfm
+pcmanfm-qt
+lxterminal
+lxappearance-obconf
+lxappearance
+fcitx5
+fcitx5-chewing
+python-pygithub
+wget
+git
+curl
+yt-dlp
+youtube-dl
+mate-media
+gsimplecal
