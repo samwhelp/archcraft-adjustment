@@ -1,5 +1,5 @@
 
-# archcraft-openbox-adjustment
+# archcraft-openbox-remix
 
 ## Arch Package
 
