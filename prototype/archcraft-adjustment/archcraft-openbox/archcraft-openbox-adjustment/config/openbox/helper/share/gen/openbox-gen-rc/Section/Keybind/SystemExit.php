@@ -7,7 +7,9 @@
 				<enabled>true</enabled>
 				<name>Exit</name>
 			</startupnotify>
-			<command>obsession-logout</command>
+			<!-- <command>obsession-logout</command> //-->
+			<!-- <command>lxsession-logout</command> //-->
+			<command>powermenu</command>
 		</action>
 	</keybind>
 
@@ -21,7 +23,20 @@
 
 
 	<!-- ## Logout //-->
+
 	<keybind key="A-S-x">
+		<action name="Execute">
+			<startupnotify>
+				<enabled>true</enabled>
+				<name>Exit</name>
+			</startupnotify>
+			<!-- <command>obsession-logout</command> //-->
+			<!-- <command>lxsession-logout</command> //-->
+			<command>/usr/share/archcraft/openbox/pipemenus/ac-powermenu --logout</command>
+		</action>
+	</keybind>
+
+	<keybind key="A-C-x">
 		<action name="Exit" />
 	</keybind>
 

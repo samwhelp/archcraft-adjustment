@@ -289,14 +289,29 @@
 				<enabled>true</enabled>
 				<name>Exit</name>
 			</startupnotify>
-			<command>obsession-logout</command>
+			<!-- <command>obsession-logout</command> //-->
+			<!-- <command>lxsession-logout</command> //-->
+			<command>powermenu</command>
 		</action>
 	</keybind>
 
 
 
 	<!-- ## Logout //-->
+
 	<keybind key="A-S-x">
+		<action name="Execute">
+			<startupnotify>
+				<enabled>true</enabled>
+				<name>Exit</name>
+			</startupnotify>
+			<!-- <command>obsession-logout</command> //-->
+			<!-- <command>lxsession-logout</command> //-->
+			<command>/usr/share/archcraft/openbox/pipemenus/ac-powermenu --logout</command>
+		</action>
+	</keybind>
+
+	<keybind key="A-C-x">
 		<action name="Exit" />
 	</keybind>
 
@@ -2737,8 +2752,9 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 	//-->
 	<!-- default menu file (or custom one in $HOME/.config/openbox/) //-->
 	<!-- system menu files on Debian systems //-->
-	<file>/var/lib/openbox/debian-menu.xml</file>
-	<file>menu.xml</file>
+	<!-- <file>/var/lib/openbox/debian-menu.xml</file> //-->
+	<file>menu-icons.xml</file>
+	<!-- <file>menu.xml</file> //-->
 	<hideDelay>200</hideDelay>
 	<!--
 		if a press-release lasts longer than this setting (in milliseconds),
