@@ -12,3 +12,11 @@
 | [Mouse middle scroll on titlebar, keep focus, when window shading](https://samwhelp.github.io/archcraft-adjustment/read/howto/mousebind-adjustment/mouse_middle_scroll_on_titlebar_keep_focus_when_window_shading.html) |
 | [Mouse left click on desktop to toggle show desktop](https://samwhelp.github.io/archcraft-adjustment/read/howto/mousebind-adjustment/mouse_left_click_on_desktop_to_toggle_show_desktop.html) |
 | [Mouse middle scroll on desktop or frame to switch workspace](https://samwhelp.github.io/archcraft-adjustment/read/howto/mousebind-adjustment/mouse_middle_scroll_on_desktop_or_frame_to_switch_workspace.html) |
+
+
+## Project
+
+| Project |
+| --- |
+| [archcraft-openbox-adjustment](https://github.com/samwhelp/archcraft-adjustment/tree/main/prototype/archcraft-adjustment/archcraft-openbox/archcraft-openbox-adjustment) |
+| [archcraft-openbox-remix](https://github.com/samwhelp/archcraft-adjustment/tree/main/prototype/archcraft-adjustment/archcraft-openbox/archcraft-openbox-remix) |
