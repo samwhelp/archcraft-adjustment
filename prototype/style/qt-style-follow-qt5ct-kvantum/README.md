@@ -1,5 +1,5 @@
 
-# qt-style-follow-gtk
+# qt-style-follow-qt5ct-kvantum
 
 
 ## Config File Path / Archcraft
@@ -13,12 +13,36 @@ QT_QPA_PLATFORMTHEME=qt5ct
 
 ## Config File Path
 
-* [/etc/profile.d/qt-style-follow-gtk.sh](config/qt-style-follow-gtk/qt-style-follow-gtk.sh)
+* [/etc/profile.d/qt-style-follow-gtk.sh](config/qt-style-follow-gtk/qt-style-follow-gtk.sh#L4)
 
 ``` sh
 if [ "$XDG_CURRENT_DESKTOP" != "KDE" ]; then
-	export QT_QPA_PLATFORMTHEME=gtk2
+	export QT_QPA_PLATFORMTHEME=qt5ct
 fi
+```
+
+
+* [~/.config/qt5ct/qt5ct.conf](config/qt5ct/qt5ct.conf#L5)
+
+> config snippet
+
+``` ini
+[Appearance]
+style=kvantum
+```
+
+
+## Notice
+
+> Need config icon_theme
+
+* [~/.config/qt5ct/qt5ct.conf](config/qt5ct/qt5ct.conf#L3)
+
+> config snippet
+
+``` ini
+[Appearance]
+icon_theme=Zafiro
 ```
 
 
