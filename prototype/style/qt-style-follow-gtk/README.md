@@ -2,10 +2,24 @@
 # qt-style-follow-gtk
 
 
+## Config File Path / Archcraft
+
+* [/etc/environment](https://github.com/archcraft-os/archcraft/blob/master/profile/airootfs/etc/environment#L6)
+
+``` sh
+QT_QPA_PLATFORMTHEME=qt5ct
+```
+
 ## Config File Path
 
 * [/etc/profile.d/qt-style-follow-gtk.sh](config/qt-style-follow-gtk/qt-style-follow-gtk.sh)
 
+
+``` sh
+if [ "$XDG_CURRENT_DESKTOP" != "KDE" ]; then
+	export QT_QPA_PLATFORMTHEME=gtk2
+fi
+```
 
 ## Package
 
