@@ -1,5 +1,5 @@
 
-# qt-style-follow-qt5ct-qtk2
+# qt-style-follow-qt5ct-gtk2
 
 
 ## Config File Path / Archcraft
@@ -28,7 +28,7 @@ fi
 
 ``` ini
 [Appearance]
-style=qtk2
+style=gtk2
 ```
 
 

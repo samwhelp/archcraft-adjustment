@@ -6,7 +6,7 @@
 | Demo |
 | --- |
 | [qt-style-follow-gtk](qt-style-follow-gtk) |
-| [qt-style-follow-qt5ct-qtk2](qt-style-follow-qt5ct-qtk2) |
+| [qt-style-follow-qt5ct-gtk2](qt-style-follow-qt5ct-gtk2) |
 | [qt-style-follow-qt5ct-kvantum](qt-style-follow-qt5ct-kvantum) |
 
 
