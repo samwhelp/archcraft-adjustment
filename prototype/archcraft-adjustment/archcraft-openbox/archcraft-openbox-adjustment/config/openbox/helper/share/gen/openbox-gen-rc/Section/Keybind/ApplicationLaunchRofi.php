@@ -6,7 +6,8 @@
 				<enabled>true</enabled>
 				<name>RofiShowDrun</name>
 			</startupnotify>
-			<command>rofi -show drun -show-icons</command>
+			<!-- <command>rofi -show drun -show-icons</command> //-->
+			<command>rofi-show-drun-by-alt-f2</command>
 		</action>
 	</keybind>
 
@@ -17,7 +18,8 @@
 				<enabled>true</enabled>
 				<name>RofiShowDrun</name>
 			</startupnotify>
-			<command>rofi -show drun -show-icons</command>
+			<!-- <command>rofi -show drun -show-icons</command> //-->
+			<command>rofi-show-drun</command>
 		</action>
 	</keybind>
 
@@ -27,7 +29,8 @@
 				<enabled>true</enabled>
 				<name>RofiShowWindow</name>
 			</startupnotify>
-			<command>rofi -show window -show-icons</command>
+			<!-- <command>rofi -show window -show-icons</command> //-->
+			<command>rofi-show-window</command>
 		</action>
 	</keybind>
 
@@ -37,6 +40,7 @@
 				<enabled>true</enabled>
 				<name>RofiShowRun</name>
 			</startupnotify>
-			<command>rofi -show run</command>
+			<!-- <command>rofi -show run</command> //-->
+			<command>rofi-show-run</command>
 		</action>
 	</keybind>
