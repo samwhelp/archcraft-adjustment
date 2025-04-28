@@ -2,6 +2,12 @@
 
 # Home
 
+| Link | GitHub |
+| ---- | ------ |
+| [Archcraft Adjustment](https://samwhelp.github.io/archcraft-adjustment/) | [GitHub](https://github.com/samwhelp/archcraft-adjustment) |
+| [Archcraft Note](https://samwhelp.github.io/note-about-archcraft/) | [GitHub](https://github.com/samwhelp/note-about-archcraft) |
+
+
 
 
 
