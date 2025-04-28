@@ -13,6 +13,8 @@
 ## Subject
 
 * [Archcraft Respin](#archcraft-respin)
+* [Howto](#howto)
+* [Project](#project)
 
 
 
